@@ -7,7 +7,7 @@ API para banco digital simplificado. Permite cadastro de contas, transferências
 - Java 17
 - Spring Boot 3.4.1
 - H2 (banco em memória)
-- Lombok
+- Lombok (Gera getters e setters automaticamente durante a build)
 - README em MD
 - Maven
 
