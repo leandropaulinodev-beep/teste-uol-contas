@@ -16,11 +16,6 @@ API para banco digital simplificado. Permite cadastro de contas, transferências
 ```bash
 mvn spring-boot:run
 ```
-
-Acesse:
-- Swagger: http://localhost:8080/swagger-ui.html
-- H2 Console: http://localhost:8080/h2-console (JDBC URL: `jdbc:h2:mem:bancodb`, user `sa`, sem senha)
-
 ## Testes
 
 ```bash
