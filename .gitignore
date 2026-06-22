@@ -1,0 +1,16 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Build
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
