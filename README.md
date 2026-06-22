@@ -1,4 +1,4 @@
-# Banco Digital - API REST (TESTE)
+# API de Banco Digital (TESTE)
 
 API para banco digital simplificado. Permite cadastro de contas, transferências entre elas e consulta de extrato.
 
